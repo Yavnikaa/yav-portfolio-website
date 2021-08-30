@@ -4,6 +4,7 @@ import SubHeader from './sub-header';
 import yav_blue from '../assets/yav_blue.png'
 import yav_yellow from '../assets/yav_yellow.png'
 import yav_pink from '../assets/yav_pink.png'
+import {Link} from "react-router-dom";
 
 class Home extends Component{
     render(){ 
@@ -22,7 +23,7 @@ class Home extends Component{
                 <div className='box-heading'> WEB DEVELOPMENT </div>
                 <div className='box-text'> As you explore other people's React apps, keep an eye out for common JavaScript patterns. 
                 You should start to recognize some of the concepts you've learned. </div>
-                <a href='./webd' className='box-button'> VIEW ALL </a>
+                <Link to='./webd' className='box-button'> VIEW ALL </Link>
                 </div>
                 </div>
 
@@ -34,7 +35,7 @@ class Home extends Component{
                 <div className='box-heading'> WEBSITE DESIGN </div>
                 <div className='box-text'> As you explore other people's React apps, keep an eye out for common JavaScript patterns. 
                 You should start to recognize some of the concepts you've learned. </div>
-                <a href='./webd' className='box-button'> VIEW ALL </a>
+                <Link to='./webd' className='box-button'> VIEW ALL </Link>
                 </div>
                 </div>
 
@@ -46,7 +47,7 @@ class Home extends Component{
                 <div className='box-heading'> UX DESIGN </div>
                 <div className='box-text'> As you explore other people's React apps, keep an eye out for common JavaScript patterns. 
                 You should start to recognize some of the concepts you've learned. </div>
-                <a href='./webd' className='box-button'> VIEW ALL </a>
+                <Link to='./webd' className='box-button'> VIEW ALL </Link>
                 </div>
                 </div>
 

@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 import '../index.css'
-
 import single_wave from '../assets/footer_wave.svg'
 import fb_logo from '../assets/fb_logo.svg'
 import github_logo from '../assets/github_logo.svg'
