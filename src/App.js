@@ -1,13 +1,22 @@
 import React, {Component} from 'react'
-import Header from './header'
-import Footer from './footer'
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import {Header, Footer, Home, About, UXDesign, WebDevelopment, WebsiteDesign} from './components';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header/>
-        <Footer/>
+        <Router>
+          <Header/>
+          <Switch>
+          <Route path="/" exact component={() => <Home />} />
+          <Route path="/uxdesign" exact component={() => <UXDesign />} />
+          <Route path="/about" exact component={() => <About />} />
+          <Route path="/webd" exact component={() => <WebDevelopment />} />
+          <Route path="/websites" exact component={() => <WebsiteDesign />} />
+          </Switch>
+          <Footer/>
+        </Router>
       </div>
     )
   }

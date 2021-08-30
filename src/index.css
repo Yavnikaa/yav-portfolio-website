@@ -21,12 +21,12 @@
   font-size: 16px;
   color: #4C4C4C;
   margin-left:28px;
+  text-decoration: none;
 }
 
-a.header-title:active {
+a.header-title:hover {
   color:#0E0D12;
   text-decoration: underline;
-  text-underline-position: below 2px;
   font-weight: 800;
 }
 
@@ -127,6 +127,39 @@ a.button-main:hover{
 a.social-icon:hover{
   opacity: 100%;
 }
-  
+
+.main-container{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 120px;
+}
+.subheader-container{
+  display:flex;
+  margin-left:96px;
+  flex-direction: column;
+}
+
+.line{
+  margin-top:48px;
+  margin-bottom: 20px;
+}
+
+.heading{
+  color: #4C4C4C;
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.caption{
+  color: #706C8D;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  margin-top:4px;
+}
+
+.waves{
+  margin-top:48px;
+}
 
 

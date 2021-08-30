@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
-import './index.css';
-import circle from './assets/margin_image.svg';
+import '../index.css';
+import circle from '../assets/margin_image.svg';
 
 class Header extends Component{
     render(){
@@ -9,10 +9,10 @@ class Header extends Component{
                 <img src={circle}/> 
                 <div className='header-box'>
                 <a href='./' className='header-title'> HOME </a>
-                <a className='header-title'> WEB DEVELOPMENT </a>
-                <a className='header-title'> WEBSITE DESIGN </a>
-                <a className='header-title'> UI/UX DESIGN </a>
-                <a className='header-title'> ABOUT ME </a>
+                <a href='./webd' className='header-title'> WEB DEVELOPMENT </a>
+                <a href='./websites' className='header-title'> WEBSITE DESIGN </a>
+                <a href='./uxdesign' className='header-title'> UI/UX DESIGN </a>
+                <a href='./about' className='header-title'> ABOUT ME </a>
                 </div>
                 <div className='button'>
                     <a href="mailto:yavnikagarg3435@gmail.com" className='contact-button'> CONTACT ME </a>

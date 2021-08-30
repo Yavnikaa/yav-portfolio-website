@@ -1,12 +1,12 @@
 import React, {Component} from 'react'
-import './index.css';
+import '../index.css'
 
-import single_wave from './assets/footer_wave.svg'
-import fb_logo from './assets/fb_logo.svg'
-import github_logo from './assets/github_logo.svg'
-import linkedin_logo from './assets/linkedin_logo.svg'
-import mail_logo from './assets/mail_logo.svg'
-import twitter_logo from './assets/twitter_logo.svg'
+import single_wave from '../assets/footer_wave.svg'
+import fb_logo from '../assets/fb_logo.svg'
+import github_logo from '../assets/github_logo.svg'
+import linkedin_logo from '../assets/linkedin_logo.svg'
+import mail_logo from '../assets/mail_logo.svg'
+import twitter_logo from '../assets/twitter_logo.svg'
 
 class Footer extends Component{
     render(){
