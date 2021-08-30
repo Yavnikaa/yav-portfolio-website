@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/yav-portfolio-website/static/css/main.8286c423.chunk.css",
+    "main.js": "/yav-portfolio-website/static/js/main.92c3565c.chunk.js",
+    "main.js.map": "/yav-portfolio-website/static/js/main.92c3565c.chunk.js.map",
+    "runtime-main.js": "/yav-portfolio-website/static/js/runtime-main.cf720433.js",
+    "runtime-main.js.map": "/yav-portfolio-website/static/js/runtime-main.cf720433.js.map",
+    "static/js/2.27b509fa.chunk.js": "/yav-portfolio-website/static/js/2.27b509fa.chunk.js",
+    "static/js/2.27b509fa.chunk.js.map": "/yav-portfolio-website/static/js/2.27b509fa.chunk.js.map",
+    "index.html": "/yav-portfolio-website/index.html",
+    "static/css/main.8286c423.chunk.css.map": "/yav-portfolio-website/static/css/main.8286c423.chunk.css.map",
+    "static/js/2.27b509fa.chunk.js.LICENSE.txt": "/yav-portfolio-website/static/js/2.27b509fa.chunk.js.LICENSE.txt",
+    "static/media/fb_logo.39f43e28.svg": "/yav-portfolio-website/static/media/fb_logo.39f43e28.svg",
+    "static/media/footer_wave.d9de97ed.svg": "/yav-portfolio-website/static/media/footer_wave.d9de97ed.svg",
+    "static/media/github_logo.0a4e31ff.svg": "/yav-portfolio-website/static/media/github_logo.0a4e31ff.svg",
+    "static/media/line.ca9cbe43.svg": "/yav-portfolio-website/static/media/line.ca9cbe43.svg",
+    "static/media/linkedin_logo.063bd6b2.svg": "/yav-portfolio-website/static/media/linkedin_logo.063bd6b2.svg",
+    "static/media/mail_logo.29f26c0a.svg": "/yav-portfolio-website/static/media/mail_logo.29f26c0a.svg",
+    "static/media/margin_image.a01cd206.svg": "/yav-portfolio-website/static/media/margin_image.a01cd206.svg",
+    "static/media/twitter_logo.d426b5c8.svg": "/yav-portfolio-website/static/media/twitter_logo.d426b5c8.svg",
+    "static/media/waves.10cca775.svg": "/yav-portfolio-website/static/media/waves.10cca775.svg",
+    "static/media/yav_blue.3e1c8772.png": "/yav-portfolio-website/static/media/yav_blue.3e1c8772.png",
+    "static/media/yav_pink.9ebbb401.png": "/yav-portfolio-website/static/media/yav_pink.9ebbb401.png",
+    "static/media/yav_yellow.d6535a17.png": "/yav-portfolio-website/static/media/yav_yellow.d6535a17.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf720433.js",
+    "static/js/2.27b509fa.chunk.js",
+    "static/css/main.8286c423.chunk.css",
+    "static/js/main.92c3565c.chunk.js"
+  ]
+}
