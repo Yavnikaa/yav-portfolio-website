@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yav-portfolio-website/static/css/main.8286c423.chunk.css",
-    "main.js": "/yav-portfolio-website/static/js/main.92c3565c.chunk.js",
-    "main.js.map": "/yav-portfolio-website/static/js/main.92c3565c.chunk.js.map",
+    "main.js": "/yav-portfolio-website/static/js/main.5895aedd.chunk.js",
+    "main.js.map": "/yav-portfolio-website/static/js/main.5895aedd.chunk.js.map",
     "runtime-main.js": "/yav-portfolio-website/static/js/runtime-main.cf720433.js",
     "runtime-main.js.map": "/yav-portfolio-website/static/js/runtime-main.cf720433.js.map",
-    "static/js/2.27b509fa.chunk.js": "/yav-portfolio-website/static/js/2.27b509fa.chunk.js",
-    "static/js/2.27b509fa.chunk.js.map": "/yav-portfolio-website/static/js/2.27b509fa.chunk.js.map",
+    "static/js/2.840bfe67.chunk.js": "/yav-portfolio-website/static/js/2.840bfe67.chunk.js",
+    "static/js/2.840bfe67.chunk.js.map": "/yav-portfolio-website/static/js/2.840bfe67.chunk.js.map",
     "index.html": "/yav-portfolio-website/index.html",
     "static/css/main.8286c423.chunk.css.map": "/yav-portfolio-website/static/css/main.8286c423.chunk.css.map",
-    "static/js/2.27b509fa.chunk.js.LICENSE.txt": "/yav-portfolio-website/static/js/2.27b509fa.chunk.js.LICENSE.txt",
+    "static/js/2.840bfe67.chunk.js.LICENSE.txt": "/yav-portfolio-website/static/js/2.840bfe67.chunk.js.LICENSE.txt",
     "static/media/fb_logo.39f43e28.svg": "/yav-portfolio-website/static/media/fb_logo.39f43e28.svg",
     "static/media/footer_wave.d9de97ed.svg": "/yav-portfolio-website/static/media/footer_wave.d9de97ed.svg",
     "static/media/github_logo.0a4e31ff.svg": "/yav-portfolio-website/static/media/github_logo.0a4e31ff.svg",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.cf720433.js",
-    "static/js/2.27b509fa.chunk.js",
+    "static/js/2.840bfe67.chunk.js",
     "static/css/main.8286c423.chunk.css",
-    "static/js/main.92c3565c.chunk.js"
+    "static/js/main.5895aedd.chunk.js"
   ]
 }
