@@ -15,7 +15,7 @@ class Footer extends Component{
                 <div className='about-text'> As you explore other people's React apps, keep an eye out for common JavaScript patterns. 
                 You should start to recognize some of the concepts you've learned. </div>
                 <div className="center">
-                <a href='/' className="button-main"> KNOW ALL ABOUT ME</a>
+                <a href='/about' className="button-main"> KNOW ALL ABOUT ME</a>
                 <img src={single_wave}/>
                 <div className="social-bar">
                     <a href="https://www.facebook.com/yavnika.garg.3" className="social-icon"> <img src={fb_logo}/> </a>

@@ -9,7 +9,7 @@ class App extends Component {
         <Router>
           <Header/>
           <Switch>
-          <Route path="/" exact component={() => <Home/>} />
+          <Route path="/yav-portfolio-website" exact component={() => <Home/>} />
           <Route path="/uxdesign" exact component={() => <UXDesign/>} />
           <Route path="/about" exact component={() => <About />} />
           <Route path="/webd" exact component={() => <WebDevelopment />} />
