@@ -9,7 +9,7 @@ class Header extends Component{
             <div className='header-container'>
                 <img src={circle}/> 
                 <div className='header-box'>
-                <Link to='./yav-portfolio-website' className='header-title'> HOME </Link>
+                <Link to='./' className='header-title'> HOME </Link>
                 <Link to='./webd' className='header-title'> WEB DEVELOPMENT </Link>
                 <Link to='./websites' className='header-title'> WEBSITE DESIGN </Link>
                 <Link to='./uxdesign' className='header-title'> UI/UX DESIGN </Link>
