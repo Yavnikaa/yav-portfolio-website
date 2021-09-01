@@ -111,12 +111,12 @@ a.button-main:hover{
 }
 
 .social-icon{
-  opacity:80%;
+  opacity:0.8;
   margin-left: 20px;
 }
 
 a.social-icon:hover{
-  opacity: 100%;
+  opacity: 1;
 }
 
 .main-container{
