@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inder&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500&display=swap');
 
 .header-container{
   display:flex;
@@ -275,4 +276,107 @@ a.box-button:hover{
 .strip-text-three{
   margin-left: 28%;
   margin-top:40px;
+}
+
+.card-row{
+  display:flex;
+  direction:row;
+  margin-right: 84px;
+  margin-left: 80px;
+  justify-content: space-between;
+}
+
+.card-bg{
+  max-width: 405px;
+  height: 240px;
+  border-radius: 4px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-right:20px;
+}
+
+.org{
+  margin-left: 12px;
+  margin-right:12px;
+  padding-top: 1em;
+  color: #4C4C4C;
+  font-family: 'Work Sans', sans-serif;
+  font-size:14px;
+}
+
+.project-title{
+  margin-left: 12px;
+  font-family: 'Work Sans', sans-serif;
+  color:#181818;
+  font-weight: 500;
+  font-size: 20px;
+  padding-top: 0.5em;
+}
+
+.card-desc{
+  margin: 12px;
+  font-family: 'Work Sans', sans-serif;
+  color:#4C4C4C;
+  font-size:18px;
+  line-height: 24px;
+}
+
+.duration{
+  margin-left: 12px;
+  justify-content: last baseline;
+  color: #375158;
+  font-family: 'Work Sans', sans-serif;
+  font-size:14px;
+}
+
+#loader {
+  
+  animation: loader 5s linear infinite; 
+ 
+  
+  position: absolute;
+  top: calc(50% - 20px);
+  left: calc(50% - 20px);
+}
+@keyframes loader {
+  0% { left: -100px }
+  100% { left: 110%; }
+}
+
+#box {
+  width: 50px;
+  height: 50px;
+  background: #fff;
+  animation: animate .5s linear infinite;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 3px;
+}
+@keyframes animate {
+  17% { border-bottom-right-radius: 3px; }
+  25% { transform: translateY(9px) rotate(22.5deg); }
+  50% {
+    transform: translateY(18px) scale(1,.9) rotate(45deg) ;
+    border-bottom-right-radius: 40px;
+  }
+  75% { transform: translateY(9px) rotate(67.5deg); }
+  100% { transform: translateY(0) rotate(90deg); }
+} 
+#shadow { 
+  width: 50px;
+  height: 5px;
+  background: #000;
+  opacity: 0.1;
+  position: absolute;
+  top: 59px;
+  left: 0;
+  border-radius: 50%;
+  animation: shadow .5s linear infinite;
+}
+@keyframes shadow {
+  50% {
+    transform: scale(1.2,1);
+  }
 }

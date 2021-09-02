@@ -38,5 +38,3 @@ class About extends Component{
 }
 
 export default About;
-
-//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

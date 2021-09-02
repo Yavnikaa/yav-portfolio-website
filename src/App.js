@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
-import {Header, Footer, Home, About, UXDesign, WebDevelopment, WebsiteDesign} from './components';
+import {Header, Footer, Home, About, UXDesign, WebDevelopment, WebsiteDesign , Loader} from './components';
 
 class App extends Component {
   render() {
