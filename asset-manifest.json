@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/yav-portfolio-website/static/css/main.15ccecdd.chunk.css",
-    "main.js": "/yav-portfolio-website/static/js/main.6785b386.chunk.js",
-    "main.js.map": "/yav-portfolio-website/static/js/main.6785b386.chunk.js.map",
+    "main.css": "/yav-portfolio-website/static/css/main.d79d6155.chunk.css",
+    "main.js": "/yav-portfolio-website/static/js/main.01ef9d07.chunk.js",
+    "main.js.map": "/yav-portfolio-website/static/js/main.01ef9d07.chunk.js.map",
     "runtime-main.js": "/yav-portfolio-website/static/js/runtime-main.cf720433.js",
     "runtime-main.js.map": "/yav-portfolio-website/static/js/runtime-main.cf720433.js.map",
-    "static/js/2.1e64b470.chunk.js": "/yav-portfolio-website/static/js/2.1e64b470.chunk.js",
-    "static/js/2.1e64b470.chunk.js.map": "/yav-portfolio-website/static/js/2.1e64b470.chunk.js.map",
+    "static/js/2.3c17b52e.chunk.js": "/yav-portfolio-website/static/js/2.3c17b52e.chunk.js",
+    "static/js/2.3c17b52e.chunk.js.map": "/yav-portfolio-website/static/js/2.3c17b52e.chunk.js.map",
     "index.html": "/yav-portfolio-website/index.html",
-    "static/css/main.15ccecdd.chunk.css.map": "/yav-portfolio-website/static/css/main.15ccecdd.chunk.css.map",
-    "static/js/2.1e64b470.chunk.js.LICENSE.txt": "/yav-portfolio-website/static/js/2.1e64b470.chunk.js.LICENSE.txt",
+    "static/css/main.d79d6155.chunk.css.map": "/yav-portfolio-website/static/css/main.d79d6155.chunk.css.map",
+    "static/js/2.3c17b52e.chunk.js.LICENSE.txt": "/yav-portfolio-website/static/js/2.3c17b52e.chunk.js.LICENSE.txt",
+    "static/media/arrow.f7272a7c.svg": "/yav-portfolio-website/static/media/arrow.f7272a7c.svg",
     "static/media/fb_logo.39f43e28.svg": "/yav-portfolio-website/static/media/fb_logo.39f43e28.svg",
     "static/media/footer_wave.d9de97ed.svg": "/yav-portfolio-website/static/media/footer_wave.d9de97ed.svg",
     "static/media/github_logo.0a4e31ff.svg": "/yav-portfolio-website/static/media/github_logo.0a4e31ff.svg",
     "static/media/index.scss": "/yav-portfolio-website/static/media/img8.63274a5c.jpg",
+    "static/media/launch.9bcf9016.svg": "/yav-portfolio-website/static/media/launch.9bcf9016.svg",
     "static/media/line.ca9cbe43.svg": "/yav-portfolio-website/static/media/line.ca9cbe43.svg",
     "static/media/linkedin_logo.063bd6b2.svg": "/yav-portfolio-website/static/media/linkedin_logo.063bd6b2.svg",
     "static/media/mail_logo.29f26c0a.svg": "/yav-portfolio-website/static/media/mail_logo.29f26c0a.svg",
@@ -26,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.cf720433.js",
-    "static/js/2.1e64b470.chunk.js",
-    "static/css/main.15ccecdd.chunk.css",
-    "static/js/main.6785b386.chunk.js"
+    "static/js/2.3c17b52e.chunk.js",
+    "static/css/main.d79d6155.chunk.css",
+    "static/js/main.01ef9d07.chunk.js"
   ]
 }
