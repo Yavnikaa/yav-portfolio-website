@@ -284,6 +284,7 @@ a.box-button:hover{
   margin-right: 84px;
   margin-left: 80px;
   justify-content: space-between;
+  margin-bottom:12vh;
 }
 
 .card-bg{
@@ -307,6 +308,7 @@ a.box-button:hover{
 
 .project-title{
   margin-left: 12px;
+  margin-right: 12px;
   font-family: 'Work Sans', sans-serif;
   color:#181818;
   font-weight: 500;
@@ -328,6 +330,13 @@ a.box-button:hover{
   color: #375158;
   font-family: 'Work Sans', sans-serif;
   font-size:14px;
+}
+
+.card-line{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 12px;
 }
 
 #loader {

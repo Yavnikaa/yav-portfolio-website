@@ -19,7 +19,6 @@ class UXDesign extends Component{
                 logo:'',
                 desc:'Hello testing please',
                 timeperiod:'MAY-JUNE 2021',
-                arrow:'',
             },
             {
                 color:2,
@@ -29,7 +28,6 @@ class UXDesign extends Component{
                 logo:'',
                 desc:'Hello testing please',
                 timeperiod:'MAY-JUNE 2021',
-                arrow:'',
             },
             {
                 color:2,
@@ -39,7 +37,6 @@ class UXDesign extends Component{
                 logo:'',
                 desc:'Hello testing please',
                 timeperiod:'MAY-JUNE 2021',
-                arrow:'',
             },
         ]
 

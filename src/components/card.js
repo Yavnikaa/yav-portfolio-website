@@ -1,29 +1,21 @@
 import React, {Component, useEffect, useState } from 'react'
 import '../index.css';
+import arrow from '../assets/arrow.svg'
+import launch from '../assets/launch.svg'
 
 const CardContent = (props) => {
-  const[pageUrlBackgroundColor, setPageUrlBackgroundColor] = useState('#BDDBE3');
-  const getPageUrl = window.location.pathname;
-
-  useEffect(() => {
-    if(getPageUrl === './uxdesign'){
-      console.log("running")
-        setPageUrlBackgroundColor('#FCBBA9');
-    }else{
-        setPageUrlBackgroundColor('#BDDBE3');
-    }
-  },[getPageUrl]);
-
     const data = props.cardData.map((row, index) => {
         return (
           <div key={index}>
-            <div className='card-bg' style={{backgroundColor:pageUrlBackgroundColor}}> 
+            <div className='card-bg' style={(row.color==2)? {backgroundColor:"#FCBBA9"}: (row.color==1)? {backgroundColor:"#F3CD82"} : {backgroundColor:"#BDDBE3"} } > 
             <div className='org'>{row.organisation}</div>
             <div className='project-title'>{row.project}</div>
-            <div> {row.logo} </div>
+            <a href={row.website}> <img src={launch}/> </a>
             <div className='card-desc'> {row.desc} </div>
+            <div className='card-line'>
             <div className='duration'> {row.timeperiod} </div>
-            <a href={row.link}> <div> {row.arrow} </div> </a> 
+            <a href={row.link} target="_blank"> <img src={arrow}/> </a> 
+            </div>
             </div>
           </div>
         )

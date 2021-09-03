@@ -12,31 +12,31 @@ class WebDevelopment extends Component{
 
         const cards= [
             {
+                color:3,
                 link: 'https://github.com/Yavnikaa/teams-clone',
                 organisation: 'MICROSOFT INDIA',
                 project: 'Building teams clone',
                 logo:'',
                 desc:"As you explore other people's React apps, keep an eye out for common JavaScript patterns.",
                 timeperiod:'MAY-JUNE 2021',
-                arrow:'',
             },
             {
+                color:3,
                 link: 'https://github.com/Yavnikaa/teams-clone',
                 organisation: 'Microsoft',
                 project: 'Building teams clone',
                 logo:'',
                 desc:'Hello testing please',
                 timeperiod:'MAY-JUNE 2021',
-                arrow:'',
             },
             {
+                color:3,
                 link: 'https://github.com/Yavnikaa/teams-clone',
                 organisation: 'Microsoft',
                 project: 'Building teams clone',
                 logo:'',
                 desc:'Hello testing please',
                 timeperiod:'MAY-JUNE 2021',
-                arrow:'',
             },
         ]
 
