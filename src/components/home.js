@@ -35,7 +35,7 @@ class Home extends Component{
                 <div className='box-heading'> WEBSITE DESIGN </div>
                 <div className='box-text'> As you explore other people's React apps, keep an eye out for common JavaScript patterns. 
                 You should start to recognize some of the concepts you've learned. </div>
-                <Link to='./webd' className='box-button'> VIEW ALL </Link>
+                <Link to='./websites' className='box-button'> VIEW ALL </Link>
                 </div>
                 </div>
 
@@ -47,7 +47,7 @@ class Home extends Component{
                 <div className='box-heading'> UX DESIGN </div>
                 <div className='box-text'> As you explore other people's React apps, keep an eye out for common JavaScript patterns. 
                 You should start to recognize some of the concepts you've learned. </div>
-                <Link to='./webd' className='box-button'> VIEW ALL </Link>
+                <Link to='./uxdesign' className='box-button'> VIEW ALL </Link>
                 </div>
                 </div>
 

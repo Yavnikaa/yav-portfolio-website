@@ -7,7 +7,7 @@ class About extends Component{
     render(){ 
         const header= {
             heading:'ABOUT ME',
-            caption:'TESTING'
+            caption:' I AM A MEME PAGE.'
         }
 
         return (
