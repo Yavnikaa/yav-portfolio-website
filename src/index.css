@@ -346,6 +346,33 @@ a.box-button:hover{
   height: 24px;
 }
 
+.about-container{
+  display:flex;
+  flex-direction: row;
+  margin:80px;
+  justify-content: space-between;
+}
+
+.about-page-text{
+  display:flex;
+  align-items: center;
+  margin-left:10%;
+  font-family: 'Work Sans', sans-serif;
+  font-size:16px;
+  color: #4C4C4C;
+  text-align: justify;
+  line-height: 1.5em;
+  word-break:break-all; 
+}
+
+.heading-about{
+  color: #333;
+  font-family: 'Raleway', sans-serif;
+  margin-left:84px;
+  margin-top:20px;
+  font-size: 24px;
+}
+
 #loader {
   
   animation: loader 5s linear infinite; 
