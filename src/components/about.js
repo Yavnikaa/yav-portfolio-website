@@ -2,7 +2,11 @@ import React, {Component} from 'react'
 import '../index.css';
 import '../index.scss';
 import SubHeader from './sub-header';
+
 import me from '../assets/me.png';
+import about_one from '../assets/about_one.png'
+import about_two from '../assets/about_two.png'
+import about_three from '../assets/about_three.png'
 
 class About extends Component{
     render(){ 
@@ -39,6 +43,36 @@ class About extends Component{
                         
                         </div>
                         </div>
+                        <div>
+
+                        <div className='heading-about'> I KEEP FIDDLING AROUND! </div>
+                        <div className='random-container'>
+                        <div>
+                        <img src={about_one} className='about_image'/>
+                        <div className='about-card'> 
+                        <div className='about-card-header'> I am fond of content creation! </div>
+                        </div>
+                        </div>
+
+                        <div>
+                        <img src={about_two} className='about_image'/>
+                        <div className='about-card-middle'> 
+
+                        </div>
+                        </div>
+
+                        <div>
+                        <img src={about_three} className='about_image'/>
+                        <div className='about-card-three'> 
+
+                        </div>
+                        </div>
+
+                            
+                        </div>
+
+                        </div>
+
                         </div>
                         </div>
         )     
