@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/yav-portfolio-website/static/css/main.111f38e3.css",
+    "main.js": "/yav-portfolio-website/static/js/main.e4a7545d.js",
+    "static/media/img4.jpg": "/yav-portfolio-website/static/media/img4.c48861c864c0150f27b4.jpg",
+    "static/media/img6.jpg": "/yav-portfolio-website/static/media/img6.610cc2274e7dfcdcb7e6.jpg",
+    "static/media/img2.jpg": "/yav-portfolio-website/static/media/img2.42be2c153d64b7fcdbd5.jpg",
+    "static/media/img1.jpg": "/yav-portfolio-website/static/media/img1.f0626f67cc9c8c82f56b.jpg",
+    "static/media/img3.jpg": "/yav-portfolio-website/static/media/img3.46021fdd53764352ed29.jpg",
+    "static/media/img7.jpg": "/yav-portfolio-website/static/media/img7.0b4064a831aa51d71b87.jpg",
+    "static/media/img5.jpg": "/yav-portfolio-website/static/media/img5.2a6bb63501d6c12afea9.jpg",
+    "static/media/yav_blue.png": "/yav-portfolio-website/static/media/yav_blue.3e1c8772733db8803033.png",
+    "static/media/img8.jpg": "/yav-portfolio-website/static/media/img8.63274a5c69926608e7ed.jpg",
+    "static/media/about_three.png": "/yav-portfolio-website/static/media/about_three.c555c24c02819d4870d4.png",
+    "static/media/yav_yellow.png": "/yav-portfolio-website/static/media/yav_yellow.b4ff6ead8ec70c8469a9.png",
+    "static/media/resume.pdf": "/yav-portfolio-website/static/media/resume.d457c7d2653c56f899f7.pdf",
+    "static/media/about_one.png": "/yav-portfolio-website/static/media/about_one.94464e2af36e9034aa74.png",
+    "static/media/me.png": "/yav-portfolio-website/static/media/me.1b7e96c7a9000bbc8e89.png",
+    "static/media/about_two.png": "/yav-portfolio-website/static/media/about_two.5fc53ba557b69a51cc9f.png",
+    "static/media/yav_pink.png": "/yav-portfolio-website/static/media/yav_pink.9ebbb401572585232b23.png",
+    "static/media/footer_wave.svg": "/yav-portfolio-website/static/media/footer_wave.d9de97edb575b13a75ee09f5a5053f0d.svg",
+    "static/media/waves.svg": "/yav-portfolio-website/static/media/waves.10cca7752023ed433b02dfec6f19b749.svg",
+    "static/media/github_logo.svg": "/yav-portfolio-website/static/media/github_logo.0a4e31ffbf96cf095dc05ffdb7152b76.svg",
+    "static/media/twitter_logo.svg": "/yav-portfolio-website/static/media/twitter_logo.d426b5c806199ff86a7b5ca472f11118.svg",
+    "static/media/linkedin_logo.svg": "/yav-portfolio-website/static/media/linkedin_logo.063bd6b2202b081d9f74ce36f25f2b3b.svg",
+    "index.html": "/yav-portfolio-website/index.html",
+    "static/media/fb_logo.svg": "/yav-portfolio-website/static/media/fb_logo.39f43e28c015f7f9410ac54200c72116.svg",
+    "static/media/mail_logo.svg": "/yav-portfolio-website/static/media/mail_logo.29f26c0abfe0dea28ffe23b4492fa7e3.svg",
+    "static/media/launch.svg": "/yav-portfolio-website/static/media/launch.9bcf901618e843280bb6.svg",
+    "static/media/margin_image.svg": "/yav-portfolio-website/static/media/margin_image.a01cd206667da2fe77d636dec19ef13c.svg",
+    "static/media/arrow.svg": "/yav-portfolio-website/static/media/arrow.f7272a7cc735f4ea7f67701d0ab24879.svg",
+    "static/media/line.svg": "/yav-portfolio-website/static/media/line.ca9cbe43f982f70038453052e529629b.svg",
+    "main.111f38e3.css.map": "/yav-portfolio-website/static/css/main.111f38e3.css.map",
+    "main.e4a7545d.js.map": "/yav-portfolio-website/static/js/main.e4a7545d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.111f38e3.css",
+    "static/js/main.e4a7545d.js"
+  ]
+}
