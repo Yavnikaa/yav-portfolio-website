@@ -392,6 +392,7 @@ a.box-button:hover{
   background: #FFFFFF;
   box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.04);
   border-radius: 0px 0px 8px 8px;
+  flex-direction: column;
 }
 
 .about-card-middle{
@@ -401,6 +402,7 @@ a.box-button:hover{
   background: #FFFFFF;
   box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.04);
   border-radius: 0px 0px 8px 8px;
+  flex-direction: column;
 }
 
 .about-card-three{
@@ -410,20 +412,32 @@ a.box-button:hover{
   background: #FFFFFF;
   box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.04);
   border-radius: 0px 0px 8px 8px;
+  flex-direction: column;
 }
 
 .about-card-header{
-  margin-top:12px;
-  text-align: center;
-  font-family: Work Sans;
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 23px;
+  margin:12px;
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #4C4C4C;
+}
 
-color: #181818;
+.about-card-text{
+  margin: 0px 16px;
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color:#677993;
+}
 
-
+.inline-link{
+  text-decoration: none;
+  color: #3f78c7;
 }
 
 #loader {

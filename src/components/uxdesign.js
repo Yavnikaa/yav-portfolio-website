@@ -7,7 +7,7 @@ class UXDesign extends Component{
     render(){ 
         const header= {
             heading:'UX DESIGN',
-            caption:'INSERT SOME CAPTION HERE'
+            caption:'I THINK ALOT, SO THAT YOU HAVE TO THINK LESS'
         }
 
         const cards= [
@@ -21,19 +21,19 @@ class UXDesign extends Component{
             },
             {
                 color:2,
-                link: 'https://medium.com/@yavnikagarg3435/razorpay-design-assignment-ce5d9b426464',
-                organisation: 'RAZORPAY DESIGN ASSIGNMENT',
-                project: 'Introducing scheduling and subscription to Zomato',
-                desc:'This captures pre-ordering in the Zomato app while ensuring flexibility, ease of payment and comfortable food choices and timings for the user.',
-                timeperiod:'APRIL 2021',
+                link: 'https://www.behance.net/gallery/106310643/Daily-UX-Writing-Challenge',
+                organisation: 'PERSONAL PROJECT',
+                project: 'Daily UX Writing Challenge',
+                desc:'This captures an attempt to a popular prompt from https://dailyuxwriting.com/ , to curate the best possible designs with the right choice of words.',
+                timeperiod:'NOVEMBER 2020',
             },
             {
                 color:2,
-                link: 'https://github.com/Yavnikaa/teams-clone',
+                link: 'https://channeli.in/r_care',
                 organisation: 'IMG, IIT ROORKEE',
-                project: 'Designing a component managament system for IITR Website',
-                desc:'This application is used to manage the entire website of IIT Roorkee allowing users to create, edit and deploy web pages.',
-                timeperiod:'AUG-SEPT 2021',
+                project: 'R-Care: Request emergency covid related help for IITR residents',
+                desc:'This application is used to get verified leads and all covid related resources with an integrated notification management system to help in time of distress.',
+                timeperiod:'FEBRUARY 2021',
             },
         ]
 

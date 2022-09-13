@@ -7,7 +7,7 @@ class WebsiteDesign extends Component{
     render(){ 
         const header= {
             heading:'WEBSITE DESIGN',
-            caption:'INSERT SOME CAPTION HERE'
+            caption:'I THINK AND CODE VISUALLY'
         }
 
         const cards= [
@@ -22,19 +22,19 @@ class WebsiteDesign extends Component{
             },
             {
                 color:1,
-                link: 'https://www.behance.net/gallery/104884515/Designing-a-website-for-prospective-students-of-IITR/modules/610565517',
-                organisation: 'GEEK GAZETTE',
-                project: 'Rebuilding Expectations Website',
-                desc:'This website targets the prospective students and freshers of IITR, serving as a complete guide to make their stay at college comfortable.',
-                timeperiod:'MAY-AUG 2020',
-                website:'https://expectations.iitr.ac.in/',
+                link: 'https://github.com/Yavnikaa/yav-portfolio-website',
+                organisation: 'PERSONAL PROJECT',
+                project: 'Portfolio Website',
+                desc:'This is my space on the internet, truly designed and developed by me with love and creative freedom, as a reflection of who I am and what my life looks like.',
+                timeperiod:'JUL-AUG 2021',
+                website:'https://yavnikaa.github.io/yav-portfolio-website',
             },
             {
                 color:1,
                 link: 'https://yavnikagarg3435.medium.com/ui-ux-case-study-designing-a-website-for-a-home-interiors-store-491a090c19f',
                 organisation: 'AZZO MODERN FURNITURE',
                 project: 'Crafting a website for AZZO',
-                desc:'A premium home interiors store in Delhi, this website is a digital identity to AZZO reflecting its bold and vibrant brand language.',
+                desc:'A premium home interiors store in Delhi, this website is a digital identity to AZZO energising its bold and vibrant brand language.',
                 timeperiod:'AUG-NOV 2020',
                 website:'https://azzomodernfurniture.com/',
             },

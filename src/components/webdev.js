@@ -7,33 +7,33 @@ class WebDevelopment extends Component{
     render(){ 
         const header= {
             heading:'WEB DEVELOPMENT',
-            caption:'INSERT SOME CAPTION HERE'
+            caption:'I THINK, I INNOVATE TO LET OTHERS CTRL-C CTRL-V.'
         }
 
         const cards= [
             {
                 color:3,
+                link: 'https://hrdatalakeportal.azurewebsites.net/',
+                organisation: 'MICROSOFT INDIA',
+                project: 'Data dictionary for HR Data Entities ',
+                desc:'To enhance the data discovery experience, I crafted a data dictionary to enlist all entities and attributes in the HR Datalake using Azure Purview, .NET and ReactTS.',
+                timeperiod:'MAY-JULY 2022',
+            },
+            {
+                color:3,
                 link: 'https://github.com/Yavnikaa/teams-clone',
                 organisation: 'MICROSOFT INDIA',
                 project: 'Building teams clone',
-                desc:"As a part of Microsoft Engage, I developed a simple video calling application using Node, React, Websockets and MongoDB.",
+                desc:"As a part of Microsoft Engage, I developed a simple video calling and group chat application using Node, ReactJS, Websockets and MongoDB.",
                 timeperiod:'MAY-JUNE 2021',
             },
             {
                 color:3,
-                link: 'https://github.com/Yavnikaa/yav-portfolio-website',
-                organisation: 'PERSONAL PROJECT',
-                project: 'My Portfolio Website',
-                desc:'This is my online identity and a glimpse of who I am. With a minimalist design, it is built completely with React. ',
-                timeperiod:'AUG-SEP 2021',
-            },
-            {
-                color:3,
-                link: 'https://github.com/Yavnikaa/BugFeed',
+                link: 'https://medium.com/@yavnikagarg3435/the-making-of-chakra-77f069a25806',
                 organisation: 'IMG, IIT ROORKEE',
-                project: 'An internal bug-tracking application',
-                desc:'I worked on Bugfeed using Django, React and Oauth, to aid the testing process in the product cycle at IMG. ',
-                timeperiod:'MAY-JULY 2020',
+                project: 'Content Management System:Chakra',
+                desc:'This application is used to manage the entire website of IIT Roorkee allowing users to create, edit and deploy web pages, with our home-grown component library.',
+                timeperiod:'NOV-FEB 2022',
             },
         ]
 
