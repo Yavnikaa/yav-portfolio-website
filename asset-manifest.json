@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yav-portfolio-website/static/css/main.111f38e3.css",
-    "main.js": "/yav-portfolio-website/static/js/main.e4a7545d.js",
+    "main.css": "/yav-portfolio-website/static/css/main.1f97de2b.css",
+    "main.js": "/yav-portfolio-website/static/js/main.6f0341eb.js",
     "static/media/img4.jpg": "/yav-portfolio-website/static/media/img4.c48861c864c0150f27b4.jpg",
     "static/media/img6.jpg": "/yav-portfolio-website/static/media/img6.610cc2274e7dfcdcb7e6.jpg",
     "static/media/img2.jpg": "/yav-portfolio-website/static/media/img2.42be2c153d64b7fcdbd5.jpg",
@@ -30,11 +30,11 @@
     "static/media/margin_image.svg": "/yav-portfolio-website/static/media/margin_image.a01cd206667da2fe77d636dec19ef13c.svg",
     "static/media/arrow.svg": "/yav-portfolio-website/static/media/arrow.f7272a7cc735f4ea7f67701d0ab24879.svg",
     "static/media/line.svg": "/yav-portfolio-website/static/media/line.ca9cbe43f982f70038453052e529629b.svg",
-    "main.111f38e3.css.map": "/yav-portfolio-website/static/css/main.111f38e3.css.map",
-    "main.e4a7545d.js.map": "/yav-portfolio-website/static/js/main.e4a7545d.js.map"
+    "main.1f97de2b.css.map": "/yav-portfolio-website/static/css/main.1f97de2b.css.map",
+    "main.6f0341eb.js.map": "/yav-portfolio-website/static/js/main.6f0341eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.111f38e3.css",
-    "static/js/main.e4a7545d.js"
+    "static/css/main.1f97de2b.css",
+    "static/js/main.6f0341eb.js"
   ]
 }
