@@ -12,6 +12,7 @@ const Title = (props) => {
               <div className='heading'>{value.heading}</div>
               <div className='caption'> {value.caption}</div>
           </div>
+          <div className='mobile-warning'> Please use a desktop or laptop for a better experience. </div>
           <div className='waves'> <img src={waves}/> </div>
           </div>
       )

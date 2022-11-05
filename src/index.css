@@ -127,8 +127,12 @@ a.social-icon:hover{
 }
 .subheader-container{
   display:flex;
-  margin-left:96px;
+  margin-left:8vw;
   flex-direction: column;
+}
+
+.mobile-warning{
+  display: none;
 }
 
 .line{
@@ -488,5 +492,46 @@ a.box-button:hover{
 @keyframes shadow {
   50% {
     transform: scale(1.2,1);
+  }
+}
+
+@media only screen and (max-width: 768px){
+  .header-container{
+    display: none;
+  }
+
+  .main-container{
+    flex-direction: column;
+  }
+
+  .subheader-container{
+    justify-content: center;
+    align-items: center;
+  }
+
+  .mobile-warning{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size:16px;
+    color: #4C4C4C;
+    margin: 4vh 4vw;
+  }
+
+  .waves{
+    display: none;
+  }
+
+  .strip{
+    display:none;
+  }
+
+  .strip-two{
+    display:none;
+  }
+
+  .strip-three{
+    display:none;
   }
 }
